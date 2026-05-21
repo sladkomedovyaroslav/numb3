@@ -1,5 +1,0 @@
-CREATE TABLE programming_languages (
-    id INT(10) UNSIGNED NOT NULL AUTO_INCREMENT,
-    name VARCHAR(50) NOT NULL UNIQUE,
-    PRIMARY KEY (id)
-);
